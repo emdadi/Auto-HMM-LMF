@@ -13,5 +13,5 @@ The implemenation of Auto-HMM-LMF is presented in "LMf_main.py" file. Which retu
 
 
 
-Contact
+
 Please contact us at (a.emdadi89@gmail.com)  if there is any question.
